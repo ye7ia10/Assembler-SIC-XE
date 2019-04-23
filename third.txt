@@ -1,0 +1,14 @@
+.23456789012345678901234567890123456
+.
+         START   0000
+BGN      LDX     #0
+LOOP     LDCH    CHAR
+         STCH    STR,x
+         TIX     TEST
+         JLT     LOOP
+         J       *
+.
+TEST     WORD    100
+STR      RESB    100
+CHAR     BYTE    C''
+         END     BGN

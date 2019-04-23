@@ -1,0 +1,14 @@
+.234567890123456789
+         START   0
+         LDX     #0
+LOOP     LDCH    =c'a'
+         LDA     =c'abc'
+         LDT     =x'1a2536'
+         STCH    STRINGX
+         TIX     #100
+         JLT     LOOP
+         J       *
+.
+STRING   RESW    100
+CHAR     BYTE    C''
+         END

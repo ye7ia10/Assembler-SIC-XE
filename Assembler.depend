@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1555961672 source:e:\mydesk\projects\assembler\assembler\main.cpp
+	<iostream>
+	<InstrucionParser.h>
+	"objectCodeMap.h"
+	"InstructionBuilder.h"
+	<ReadFile.h>
+	"Ob.h"
+	<bits/stdc++.h>
+
+1555948648 source:e:\mydesk\projects\assembler\assembler\src\instrucionparser.cpp
+	"InstrucionParser.h"
+
+1555948715 e:\mydesk\projects\assembler\assembler\include\instrucionparser.h
+	<bits/stdc++.h>
+
+1555949590 source:e:\mydesk\projects\assembler\assembler\src\ob.cpp
+	"Ob.h"
+	"objectCodeMap.h"
+	<iostream>
+
+1555949687 e:\mydesk\projects\assembler\assembler\include\ob.h
+	<string>
+	<string.h>
+
+1555949697 e:\mydesk\projects\assembler\assembler\include\objectcodemap.h
+	<unordered_map>
+	"Ob.h"
+
+1555961090 source:e:\mydesk\projects\assembler\assembler\src\objectcodemap.cpp
+	"objectCodeMap.h"
+	"Ob.h"
+	<unordered_map>
+	<iostream>
+	<algorithm>
+
+1555953421 e:\mydesk\projects\assembler\assembler\include\readfile.h
+	<bits/stdc++.h>
+
+1555959464 source:e:\mydesk\projects\assembler\assembler\src\readfile.cpp
+	"ReadFile.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1555955856 source:e:\mydesk\projects\assembler\assembler\test.cpp
+	<iostream>
+	<InstrucionParser.h>
+	"objectCodeMap.h"
+	<ReadFile.h>
+	"Ob.h"
+	<bits/stdc++.h>
+
+1555961375 source:e:\mydesk\projects\assembler\assembler\src\instructionbuilder.cpp
+	"InstructionBuilder.h"
+	"parser.h"
+	"InstrucionParser.h"
+
+1555959264 e:\mydesk\projects\assembler\assembler\include\instructionbuilder.h
+	<bits/stdc++.h>
+	<InstrucionParser.h>
+	<objectCodeMap.h>
+	<ReadFile.h>
+
+1555957931 e:\mydesk\projects\assembler\assembler\include\parser.h
+	<string>
+	<iostream>
+	<regex>
+	"InstrucionParser.h"
+
+1555962552 source:e:\mydesk\projects\assembler\assembler\src\parser.cpp
+	"parser.h"
+	<regex>
+
+1555961672 source:c:\users\shiko\git\assembler\assembler\main.cpp
+	<iostream>
+	<InstrucionParser.h>
+	"objectCodeMap.h"
+	"InstructionBuilder.h"
+	<ReadFile.h>
+	"Ob.h"
+	<bits/stdc++.h>
+
+1555948715 c:\users\shiko\git\assembler\assembler\include\instrucionparser.h
+	<bits/stdc++.h>
+
+1555949697 c:\users\shiko\git\assembler\assembler\include\objectcodemap.h
+	<unordered_map>
+	"Ob.h"
+
+1555949687 c:\users\shiko\git\assembler\assembler\include\ob.h
+	<string>
+	<string.h>
+
+1556013127 c:\users\shiko\git\assembler\assembler\include\instructionbuilder.h
+	<bits/stdc++.h>
+	<InstrucionParser.h>
+	<objectCodeMap.h>
+	<ReadFile.h>
+
+1555953421 c:\users\shiko\git\assembler\assembler\include\readfile.h
+	<bits/stdc++.h>
+
+1555948648 source:c:\users\shiko\git\assembler\assembler\src\instrucionparser.cpp
+	"InstrucionParser.h"
+
+1555949590 source:c:\users\shiko\git\assembler\assembler\src\ob.cpp
+	"Ob.h"
+	"objectCodeMap.h"
+	<iostream>
+
+1555962552 source:c:\users\shiko\git\assembler\assembler\src\parser.cpp
+	"parser.h"
+	<regex>
+
+1555957931 c:\users\shiko\git\assembler\assembler\include\parser.h
+	<string>
+	<iostream>
+	<regex>
+	"InstrucionParser.h"
+
+1555959464 source:c:\users\shiko\git\assembler\assembler\src\readfile.cpp
+	"ReadFile.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1555955856 source:c:\users\shiko\git\assembler\assembler\test.cpp
+	<iostream>
+	<InstrucionParser.h>
+	"objectCodeMap.h"
+	<ReadFile.h>
+	"Ob.h"
+	<bits/stdc++.h>
+
+1556032282 source:d:\assemble 7kma\assembler\assembler\main.cpp
+	<iostream>
+	<InstrucionParser.h>
+	"objectCodeMap.h"
+	"InstructionBuilder.h"
+	<ReadFile.h>
+	"Ob.h"
+	<bits/stdc++.h>
+	<string>
+	<string.h>
+
+1555948715 d:\assemble 7kma\assembler\assembler\include\instrucionparser.h
+	<bits/stdc++.h>
+
+1555949697 d:\assemble 7kma\assembler\assembler\include\objectcodemap.h
+	<unordered_map>
+	"Ob.h"
+
+1555949687 d:\assemble 7kma\assembler\assembler\include\ob.h
+	<string>
+	<string.h>
+
+1556028810 d:\assemble 7kma\assembler\assembler\include\instructionbuilder.h
+	<bits/stdc++.h>
+	<InstrucionParser.h>
+	<objectCodeMap.h>
+	<ReadFile.h>
+
+1555953421 d:\assemble 7kma\assembler\assembler\include\readfile.h
+	<bits/stdc++.h>
+
+1555948648 source:d:\assemble 7kma\assembler\assembler\src\instrucionparser.cpp
+	"InstrucionParser.h"
+
+1555949590 source:d:\assemble 7kma\assembler\assembler\src\ob.cpp
+	"Ob.h"
+	"objectCodeMap.h"
+	<iostream>
+
+1555962552 source:d:\assemble 7kma\assembler\assembler\src\parser.cpp
+	"parser.h"
+	<regex>
+
+1555957931 d:\assemble 7kma\assembler\assembler\include\parser.h
+	<string>
+	<iostream>
+	<regex>
+	"InstrucionParser.h"
+
+1555959464 source:d:\assemble 7kma\assembler\assembler\src\readfile.cpp
+	"ReadFile.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1555955856 source:d:\assemble 7kma\assembler\assembler\test.cpp
+	<iostream>
+	<InstrucionParser.h>
+	"objectCodeMap.h"
+	<ReadFile.h>
+	"Ob.h"
+	<bits/stdc++.h>
+
+1556011238 source:d:\assemble 7kma\assembler\assembler\src\objectcodemap.cpp
+	"objectCodeMap.h"
+	"Ob.h"
+	<unordered_map>
+	<iostream>
+	<algorithm>
+
+1556033222 source:d:\assemble 7kma\assembler\assembler\src\instructionbuilder.cpp
+	"InstructionBuilder.h"
+	"parser.h"
+	"InstrucionParser.h"
+
